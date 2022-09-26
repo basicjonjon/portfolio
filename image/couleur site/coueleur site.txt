@@ -1,2 +1,0 @@
-text + bordure = #2DB664
-couleur background = #0A321A
