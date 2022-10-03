@@ -235,7 +235,7 @@ nav input[type=checkbox]:checked ~ ul
 /*-------------------------*/
 
 .titreindex{
-    margin-top: 375px;
+    margin-top: 65px;
     
     border: 4px solid #2DB664;
     width: 400px;
@@ -243,10 +243,55 @@ nav input[type=checkbox]:checked ~ ul
 }
 .titreindex2{
     
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     border: 0px solid #2DB664;
     width: 600px;
     padding: 20px;
+}
+.titreindex3{
+    margin-top: 48px;
+    
+    border: 4px solid #2DB664;
+    width: 400px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 35px;
+    margin-left: 40px;
+}
+.titreindex3:hover{
+    margin-top: 45px;
+    color: #032408;
+    border: 4px solid #2DB664;
+    background-color: #2DB664;
+    width: 400px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 35px;
+    text-decoration: none;
+}
+#boutonindex:hover{
+    text-decoration: none;
+}
+.titreindex4{
+    
+    margin-top: 50px;
+    
+    border: 4px solid #2DB664;
+    width: 400px;
+    padding: 20px;
+}
+.tableindex{
+    align-content: center;
+    margin-top: 245px;
+    width: 450px;
+}
+#td1{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#td2{
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 /*-------------------------------------fin section menu deroulant--------------------------------------*/
